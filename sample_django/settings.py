@@ -84,8 +84,8 @@ DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql',
         'NAME': 'sample-django',
-        'USER': 'coderize',
-        'PASSWORD': 'coderize',
+        'USER': 'django',
+        'PASSWORD': 'django',
         'HOST': 'localhost',
         'PORT': '5432',
     }
